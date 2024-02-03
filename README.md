@@ -1,2 +1,2 @@
-# testrepo
-Test Repository for Tools for Data Science course
+# Testing edits
+Making a text edit to the readme file of the test repository
